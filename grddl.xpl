@@ -5,8 +5,8 @@
                 xmlns:dataview="http://www.w3.org/2003/g/data-view#"
                 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
                 xmlns:html="http://www.w3.org/1999/xhtml"
-                xmlns:xg="http://www.example.org/ns/xproc/grddl"
-                xmlns:xgv="http://www.example.org/ns/xproc/grddl-vocab"
+                xmlns:xg="http://github.com/vojtechtoman/xproc-grddl"
+                xmlns:xgv="http://github.com/vojtechtoman/xproc-grddl-vocab"
                 type="xg:grddl" version="1.0">
 
   <p:input port="source"/>
